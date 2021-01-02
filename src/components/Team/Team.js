@@ -16,12 +16,12 @@ export default function Landing(){
                 <Row>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5fc92e6f343d2f0f217e46c7_Image%20from%20iOS.jpg" alt="CEO"/>
-                        <Name>Hasani Hendricks</Name>
+                        <Name>Hasani Taylor</Name>
                         <Title>Cofounder,CEO</Title>
                     </Element>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5fd7a2eb45ac6b6bea16e259_William.jpg" alt="Cofounder"/>
-                        <Name>Mick Rambutan</Name>
+                        <Name>Mick Goci</Name>
                         <Title>Cofounder</Title>
                     </Element>
                     <Element>
@@ -50,24 +50,24 @@ export default function Landing(){
                 <Row>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5ea2c8460047df5b1a1b3baa_5e4510e58e9f312f7f3716e4_5cd1d601de724f3804f2799c_sanal-p-500.jpeg"/>
-                        <Name>Kunj Panicker</Name>
+                        <Name>Kunj Patel</Name>
                         <Title>Partner Manager</Title>
                     </Element>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5ea2c83d3291998e1298ff4b_5e4510b08e9f31fb4b371636_5cd1d5ef82934ab9a1ee7752_karl-p-500.jpeg"/>
-                        <Name>Karl Karlson</Name>
+                        <Name>Karl Kozlov</Name>
                         <Title>Software Engineer</Title>
                     </Element>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5eebd84a8a9c9c5bdde5b29f_a-p-500.jpeg"/>
-                        <Name>Anatoly Karpov</Name>
+                        <Name>Anatoly Antonov</Name>
                         <Title>Software Engineer</Title>
                     </Element>
                 </Row>
                 <Row>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5ea2c82ec0c91e4bcfc4ec58_5e8ca4f3565102a802197eb7_12829141_10205393331824210_7794276517383526398_o.jpeg"/>
-                        <Name>Candy Felipe</Name>
+                        <Name>Cassidy Felipe</Name>
                         <Title>Recruiter</Title>
                     </Element>
                     <Element>
@@ -77,7 +77,7 @@ export default function Landing(){
                     </Element>
                     <Element>
                         <Img src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5ea2c82d3e290876af918bae_5e4d61eb72fc09759775a28a_IMG_0556-p-500.jpeg"/>
-                        <Name>Brett Pence</Name>
+                        <Name>Nigel Flugel</Name>
                         <Title>Lead Technical Manager</Title>
                     </Element>
                 </Row>

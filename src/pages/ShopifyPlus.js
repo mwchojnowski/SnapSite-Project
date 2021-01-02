@@ -69,8 +69,8 @@ export default function ShopifyPlus(){
             <MiniCards />
             <LowerBlock 
                 buttonDisplay={true}
-                title="Start building your store with Company"
-                text="Try Company for free, and explore the tools designed to help you build a store your customers will love."
+                title="Start building your store with SnapSite"
+                text="Try SnapSite for free, and explore the tools designed to help you build a store your customers will love."
                 Button= "Get Started"
             />
             <Footer />

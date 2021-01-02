@@ -16,7 +16,7 @@ export default function Data(){
             <Container>
                 <TitleDiv>
                     <Title>
-                        A look at Company by the numbers
+                        A look at SnapSite by the numbers
                     </Title>
                 </TitleDiv>
                 <DataDiv>
@@ -38,7 +38,7 @@ export default function Data(){
                     </Element>
                     <Element>
                         <Value>
-                            19
+                            12
                         </Value>
                         <Desc>
                             team members

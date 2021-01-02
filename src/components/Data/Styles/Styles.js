@@ -17,6 +17,9 @@ export const Container = Styled.div`
     flex-direction:row;
     height:100%;
     width:70%;
+    @media only screen and (max-width: 1200px) {
+        flex-direction:column;
+    }
 `;
 
 export const TitleDiv = Styled.div`
@@ -34,6 +37,9 @@ export const DataDiv = Styled.div`
     width:60%;
     display:flex;
     flex-direction:row;
+    @media only screen and (max-width: 1000px) {
+        flex-direction:column;
+    }
 `;
 
 export const Element = Styled.div`

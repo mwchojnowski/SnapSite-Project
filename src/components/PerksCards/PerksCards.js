@@ -23,7 +23,7 @@ export default function PerksCards(){
                         Access software and support
                     </Title>
                     <Text>
-                        Connect directly with the Company team through private
+                        Connect directly with the SnapSite team through private
                         Slack channels for your immediate support needs.
                     </Text>
                 </Card>
@@ -32,7 +32,7 @@ export default function PerksCards(){
                         <BsHouseDoor />
                     </Icon>
                     <Title>
-                        Join the Company family
+                        Join the SnapSite family
                     </Title>
                     <Text>
                         We like to think of our agency partners as family which means 

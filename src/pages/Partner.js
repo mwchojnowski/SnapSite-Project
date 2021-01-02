@@ -15,7 +15,7 @@ export default function Partner(){
             <ShopDisplay 
                 buttonDisplay = {true}
                 imageDir = "right"
-                title = "Become a Company agency partner"
+                title = "Become a SnapSite agency partner"
                 text = "Gain access to our community of ecommerce clients and enjoy exclusive perks like priority support and training to help grow your agency."
                 button = "Become a Partner"
                 url = "https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5efb684acbac06125c24ec27_agency%20iamge%20opt%202.png"
@@ -38,8 +38,8 @@ export default function Partner(){
             />
             <MainBlock 
                 buttonDisplay={true}
-                title="Team up with Company to take your agency to the next level."
-                text="Join the Company Partner Program to enjoy all of these perks and become a go-to agency for our clients."
+                title="Team up with SnapSite to take your agency to the next level."
+                text="Join the SnapSite Partner Program to enjoy all of these perks and become a go-to agency for our clients."
                 Button = "Become a Partner"
                 href=''
             />

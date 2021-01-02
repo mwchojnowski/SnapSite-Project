@@ -12,15 +12,15 @@ export default function Blog(){
             <NavBar display={true}/>
             <MainBlock 
                 buttonDisplay={false}
-                title = "Company Blog"
+                title = "SnapSite Blog"
                 text = "Build faster and convert more with a weekly dose of exclusive advice, tools and ecommerce strategies delivered directly to your inbox."
             />
             <FeatureArticles />
             <Articles />
             <LowerBlock
                 buttonDisplay={true}
-                title="Start building your store with Company"
-                text="Try Company for free, and explore the tools designed to help you build a store your customers will love."
+                title="Start building your store with SnapSite"
+                text="Try SnapSite for free, and explore the tools designed to help you build a store your customers will love."
                 Button= "Get Started"
                 href='/platforms'
             />

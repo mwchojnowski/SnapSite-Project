@@ -130,7 +130,7 @@ export default function Nav(){
                         <NavItem>
                             <HoverContainer>
                                 <HoverA onClick={()=> setComp(prev=>!prev)}>
-                                    Company 
+                                    SnapSite 
                                     <Arrow>
                                         <FaChevronDown />
                                     </Arrow> 

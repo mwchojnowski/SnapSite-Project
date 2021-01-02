@@ -10,7 +10,7 @@ export default function Platform(){
             <NavBar display={true}/>
             <MainBlock 
                 buttonDisplay = {false}
-                title = "Add Company to your online store"
+                title = "Add SnapSite to your online store"
                 text = "CHOOSE A PLATFORM"
             />
             <PlatFormSelect />

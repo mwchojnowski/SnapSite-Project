@@ -24,13 +24,13 @@ export default function Careers(){
             <MainBlock
                 buttonDisplay={false}
                 title = "Our Core Values"
-                text = "At Company, people and values come first. We're not only building great products we're fostering a community of transparency, support and positivity."
+                text = "At SnapSite, people and values come first. We're not only building great products we're fostering a community of transparency, support and positivity."
             />
             <FeatureCardList />
             <MainBlock
                 buttonDisplay={false}
-                title = "Working at Company"
-                text = "We appreciate all of the great people that have joined us to make Company what it is today. To show our appreciation these are some of the perks we offer to make sure our team members are cared for:"
+                title = "Working at SnapSite"
+                text = "We appreciate all of the great people that have joined us to make SnapSite what it is today. To show our appreciation these are some of the perks we offer to make sure our team members are cared for:"
             />
             <CareerCards />
             <MainBlock 

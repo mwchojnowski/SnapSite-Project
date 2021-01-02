@@ -29,7 +29,7 @@ export const Title = styled.h1`
     font-weight:1000;
     padding-bottom:25px;
     width:60%;
-    @media only screen and (max-width: 1000px) {
+    @media only screen and (max-width: 1200px) {
         font-size:45px;
     }
 `;

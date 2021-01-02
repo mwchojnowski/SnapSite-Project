@@ -15,8 +15,8 @@ export default function Landing(){
             <MainBlock
                 buttonDisplay = {true}
                 title = "Build your store with ease."
-                text = "Company helps brands to create user friendly and unique stores with ease"
-                Button = "Get Company"
+                text = "SnapSite helps brands to create user friendly and unique stores with ease"
+                Button = "Get SnapSite"
                 href='/platforms'
             />
             <Image url="https://i.ibb.co/9r1f7Mc/fewfwe.webp"/>
@@ -39,20 +39,20 @@ export default function Landing(){
                 imageDir = "left"
                 icon = {GrChatOption}
                 title = "Join a community of ecommerce leaders"
-                text = "Be among leading brands and ecommerce agencies that use Company's tools daily."
-                quote = '"The support experience has been outstanding. As we went through implementation, Company was with us every step of the way."'
+                text = "Be among leading brands and ecommerce agencies that use SnapSite's tools daily."
+                quote = '"The support experience has been outstanding. As we went through implementation, SnapSite was with us every step of the way."'
                 quotee = "Gabriella Santos"
                 url = "https://i.ibb.co/GdfLTSn/5e8deaf74c8c9c20fce4003f-community-of-leading-brands.jpg"
             />
             <MainBlock 
                 buttonDisplay = {false}
                 title = "Boosting ecommerce around the world"
-                text = "Businesses around the world generate much more in sales every day using Company."
+                text = "Businesses around the world generate much more in sales every day using SnapSite."
             />
             <LowerBlock 
                 buttonDisplay={true}
-                title="Start building your store with Company"
-                text="Try Company for free, and explore the tools designed to help you build a store your customers will love."
+                title="Start building your store with SnapSite"
+                text="Try SnapSite for free, and explore the tools designed to help you build a store your customers will love."
                 Button= "Get Started"
             />
             <Footer />

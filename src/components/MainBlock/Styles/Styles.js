@@ -25,6 +25,10 @@ export const Title = styled.h1`
     padding-bottom:25px;
     text-align:center;
     width:70%;
+    @media only screen and (max-width: 1000px) {
+        width:85%;
+        font-size:45px;
+    }
 `;
 
 export const Text = styled.p`

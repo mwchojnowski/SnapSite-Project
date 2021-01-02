@@ -16,7 +16,7 @@ export default function footer(){
             <Container>
                 <LOGOColumn>
                     <Logo>
-                        Company
+                        SnapSite
                     </Logo>
                 </LOGOColumn>
                 <Column>
@@ -61,7 +61,7 @@ export default function footer(){
                 </Column>
                 <Column>
                     <Title>
-                        Company
+                        SnapSite
                     </Title>
                     <Item href="/about">
                         About Us
@@ -87,7 +87,7 @@ export default function footer(){
                 </Column>
             </Container>
             <BottomText>
-                © 2020 Company, Inc. All rights reserved.
+                © 2020 SnapSite, Inc. All rights reserved.
             </BottomText>
         </Wrapper>
     )
