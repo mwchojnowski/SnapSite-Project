@@ -11,7 +11,6 @@ import ShopifyPlus from "./pages/ShopifyPlus"
 import About from "./pages/About"
 import Blog from "./pages/Blog"
 import CaseStudies from "./pages/CaseStudies"
-import Nav from "./components/Nav/Nav"
 import Careers from "./pages/Careers"
 import Partner from "./pages/Partner"
 
@@ -45,9 +44,6 @@ export default function App() {
         </Route>
         <Route path="/partner">
           <Partner />
-        </Route>
-        <Route path="/testing">
-          <Nav />
         </Route>
       </Switch>
     </Router>
