@@ -111,7 +111,7 @@ export default function NavBar(props){
                                 <NavItem>
                                     <HoverContainer>
                                         <HoverA>
-                                            SnapSite 
+                                            Company 
                                             <Arrow>
                                                 <FaChevronDown />
                                             </Arrow>
