@@ -5,7 +5,6 @@ import MainBlock from "../components/MainBlock/MainBlock"
 import Image from "../components/Image/Image"
 import FeatureCards from "../components/FeatureCards/FeatureCards"
 import FeatureImgText from "../components/FeatureImgText/FeatureImgText"
-import {GrChatOption} from "react-icons/gr"
 import LowerBlock from "../components/LowerBlock/LowerBlock"
 
 export default function Landing(){
@@ -28,7 +27,6 @@ export default function Landing(){
             <FeatureCards />
             <FeatureImgText 
                 imageDir = "right"
-                icon = {GrChatOption}
                 title = "Create pages with confidence"
                 text = "Our 24/7 support will be there to help you solve any issue at any time."
                 quote = '"The support experience has been outstanding. As we went through implementation, Shogun was with us every step of the way."'
@@ -37,7 +35,6 @@ export default function Landing(){
             />
             <FeatureImgText 
                 imageDir = "left"
-                icon = {GrChatOption}
                 title = "Join a community of ecommerce leaders"
                 text = "Be among leading brands and ecommerce agencies that use SnapSite's tools daily."
                 quote = '"The support experience has been outstanding. As we went through implementation, SnapSite was with us every step of the way."'
