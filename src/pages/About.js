@@ -18,20 +18,20 @@ export default function Landing(){
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "right"
-                title = "Customers first — seriously."
-                text = "Everything we do starts with our customers and our great team helping make their lives a little easier. From listening to their needs and designing products to meet them to supporting them at any time, on any day."
+                title = "Customers first, always."
+                text = "Everything we do starts with our customers and making their lives easier."
                 url = "https://i.ibb.co/fxTLK04/5ea217bd0047df55cf176650-Bitmap-p-800.jpg"
             />
             <Data />    
             <MainBlock 
                 buttonDisplay={false}
-                title= "Meet the team"
+                title= "Our team"
             />
             <Team />
             <MainBlock 
                 buttonDisplay={true}
-                title="We’re always looking for great people to join our team"
-                text="We are a tight knit distributed team of talented people who enjoy making ecommerce better for all. If you're interested in joining our mission, we'd love to hear from you. Join Our Team"
+                title="We are always open to good people joining our team"
+                text="We are a tight knit talented team of people who enjoy improving ecommerce. If you're interested in joining our mission, we'd love to hear from you."
                 Button = "Join Our Team"
                 href='/careers'
             />

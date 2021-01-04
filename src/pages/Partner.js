@@ -38,8 +38,8 @@ export default function Partner(){
             />
             <MainBlock 
                 buttonDisplay={true}
-                title="Team up with SnapSite to take your agency to the next level."
-                text="Join the SnapSite Partner Program to enjoy all of these perks and become a go-to agency for our clients."
+                title="Team up and elevate your company."
+                text="Join the Partner Program to enjoy all of the perks."
                 Button = "Become a Partner"
                 href=''
             />

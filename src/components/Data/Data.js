@@ -16,7 +16,7 @@ export default function Data(){
             <Container>
                 <TitleDiv>
                     <Title>
-                        A look at SnapSite by the numbers
+                        A look at the numbers
                     </Title>
                 </TitleDiv>
                 <DataDiv>

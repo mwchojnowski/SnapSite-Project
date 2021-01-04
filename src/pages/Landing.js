@@ -13,43 +13,43 @@ export default function Landing(){
             <NavBar display={true}/>
             <MainBlock
                 buttonDisplay = {true}
-                title = "Build your store with ease."
-                text = "SnapSite helps brands to create user friendly and unique stores with ease"
+                title = "Create your store with ease."
+                text = "SnapSite helps brands to create user friendly, unique stores quickly and efficiently"
                 Button = "Get SnapSite"
                 href='/platforms'
             />
             <Image url="https://i.ibb.co/9r1f7Mc/fewfwe.webp"/>
             <MainBlock 
                 buttonDisplay = {false}
-                title = "Craft beautiful experiences"
-                text = "Create engaging, fast and smooth ecommerce pages your customers will enjoy with a powerful suite of tools."
+                title = "Craft Engaging Pages"
+                text = "Your customers will enjoy your site with a wide variety of tools."
             />
             <FeatureCards />
             <FeatureImgText 
                 imageDir = "right"
-                title = "Create pages with confidence"
-                text = "Our 24/7 support will be there to help you solve any issue at any time."
-                quote = '"The support experience has been outstanding. As we went through implementation, Shogun was with us every step of the way."'
+                title = "Create pages confidently"
+                text = "With 24/7 support we'll be there to help resolve any issue, any time."
+                quote = '"The support experience was great. SnapSite was always with us."'
                 quotee = "Matthias Richter"
-                url = "https://i.ibb.co/T0d11p6/5e8deaf81f4f27c8111145f7-create-with-confidence-p-800.jpg"
+                url = "https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/08/28183850/home_post_2.gif"
             />
             <FeatureImgText 
                 imageDir = "left"
-                title = "Join a community of ecommerce leaders"
-                text = "Be among leading brands and ecommerce agencies that use SnapSite's tools daily."
-                quote = '"The support experience has been outstanding. As we went through implementation, SnapSite was with us every step of the way."'
+                title = "Join an amazing community of leaders"
+                text = "Be among the ecommerce agencies that use SnapSite daily."
+                quote = '"Since we have been with shogun we have seen a 25% increase in conversion."'
                 quotee = "Gabriella Santos"
-                url = "https://i.ibb.co/GdfLTSn/5e8deaf74c8c9c20fce4003f-community-of-leading-brands.jpg"
+                url = "https://www.womened.org/images/2020/01/31/networking-infographic.png"
             />
             <MainBlock 
                 buttonDisplay = {false}
-                title = "Boosting ecommerce around the world"
-                text = "Businesses around the world generate much more in sales every day using SnapSite."
+                title = "Boosting ecommerce Everywhere"
+                text = "Businesses everywhere generate more in sales using SnapSite."
             />
             <LowerBlock 
                 buttonDisplay={true}
-                title="Start building your store with SnapSite"
-                text="Try SnapSite for free, and explore the tools designed to help you build a store your customers will love."
+                title="Get started with SnapSite"
+                text="Try for free, and explore the tools to build a store people will remember."
                 Button= "Get Started"
             />
             <Footer />

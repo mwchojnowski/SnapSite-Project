@@ -77,7 +77,7 @@ export default function FeatureArticles(){
                             </Date>
                         </MiniFeatureDetail>
                         <ArticleName>
-                            Shogun Raises $35M to Democratize Ecommerce for All
+                            SnapSite Raises $1M to Democratize Ecommerce for All
                         </ArticleName>
                     </Article>
                     <Article>

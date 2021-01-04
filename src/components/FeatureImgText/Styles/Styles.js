@@ -8,6 +8,7 @@ export const FeatureWrapper = Styled.div`
     align-items:center;
     margin-top: 35px;
     font-family: 'Enriqueta', serif;
+    margin-top:50px;
 `;
 
 export const Container = Styled.div`
@@ -24,7 +25,8 @@ export const Container = Styled.div`
 export const Img = Styled.img`
     width:50%;
     height:auto;
-    padding-right:50px;
+    margin-right:50px;
+    border-radius:25px;
     @media only screen and (max-width: 1000px) {
         width:100%;
     }

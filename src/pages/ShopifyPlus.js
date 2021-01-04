@@ -15,8 +15,8 @@ export default function ShopifyPlus(){
             <ShopDisplay 
                 buttonDisplay = {true}
                 imageDir = "right"
-                title = "Build Shopify Plus pages that convert"
-                text = "Create high-quality pages for your Shopify Plus store with a powerful page builder designed with ecommerce teams in mind."
+                title = "Create high quality Shopify Plus pages"
+                text = "Create pages for your Shopify Plus store with tools for optimization and conversion."
                 button = "Get Started"
                 url = "https://i.ibb.co/4PfxBZ0/webPage.jpg"
             />
@@ -24,54 +24,53 @@ export default function ShopifyPlus(){
             <MainBlock 
                 buttonDisplay = {false}
                 title = "Build ecommerce pages quickly"
-                text = "Design landing pages, blog pages or your entire Shopify Plus store with our powerful editor. Swiftly A/B test page variations and optimize your store without burdening the team."
+                text = "Design all kinds of pages with our editor. Optimize your store without burning out the team."
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "right"
-                title = "Start from scratch or edit existing pages"
-                text = "Create or edit an unlimited number of pages with 30+ page templates and a visual builder regardless of which Shopify Plus theme you're using."
+                title = "Make anything you desire"
+                text = "Make an unlimited number of pages with plenty of templates and a visual builder."
                 url = "https://i.ibb.co/7SWm3yw/image.jpg"
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "left"
-                title = "Perform unlimited tests and optimizations"
-                text = "Convert more of your Plus customers by uncovering what they love about your pages with built-in A/B testing."
+                title = "Run unlimited tests"
+                text = "Convert more customers with built-in A/B testing."
                 url = "https://i.ibb.co/cFvt9gQ/5eaadee34c1f3042acdf8211-ab-test.jpg"
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "right"
-                title = "Track your store's performance"
-                text = "Monitor key metrics like bounce rates, add to carts, number of sessions and form submissions with a detailed analytics dashboard."
+                title = "Track Performance"
+                text = "Monitor key metrics with a detailed analytics dashboard."
                 url = "https://i.ibb.co/8Y2xCgv/5eab51367dc3d1b1ddf34f07-analytics-2000x-100.jpg"
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "left"
-                title = "Sync pages and products between stores"
-                text = "Manage multiple stores easily by syncing products, pages and elements seamlessly between them. Staging? Dev? Multi-Language? No Problem."
+                title = "Sync between online stores"
+                text = "Manage many stores easily by syncing seamlessly between them."
                 url = "https://i.ibb.co/BGLH5P5/5eaadecc0768419eb4e84554-sync.jpg"
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "right"
-                title = "World class 24/7 support"
-                text = "We’re here for you with a global support team ready to help you solve any issue at any time."
+                title = "Reliable support"
+                text = "Our global support team is always ready to help you solve any problem."
                 url = "https://i.ibb.co/KjQRzWj/5eaadef252d8cd0b139f5d18-support.jpg"
             />
             <MainBlock 
                 buttonDisplay = {false}
-                title = "Beyond your standard drag-and-drop page builder"
-                text = ""
+                title = "Better than your standard builder"
             />
             <MiniCards />
             <LowerBlock 
-                buttonDisplay={true}
-                title="Start building your store with SnapSite"
-                text="Try SnapSite for free, and explore the tools designed to help you build a store your customers will love."
-                Button= "Get Started"
+                buttonDisplay = {true}
+                title = "Get started with SnapSite"
+                text = "Try for free, and explore the tools to build a store people will remember."
+                Button = "Get Started"
             />
             <Footer />
         </>

@@ -19,10 +19,10 @@ export default function FeatureCards(){
                         <AiOutlineRise />
                     </Icon>
                     <Title>
-                        Build without limits
+                        No limits
                     </Title>
                     <Text>
-                        Make Pages with templates and pre-made elements or make your own. 
+                        Build Pages with templates or make your own. 
                     </Text>
                 </Card>
                 <Card>
@@ -30,10 +30,10 @@ export default function FeatureCards(){
                         <GiScales />
                     </Icon>
                     <Title>
-                        Optimize for conversions
+                        Optimize
                     </Title>
                     <Text>
-                        Find out what your customers love most and optimize your store.
+                        Discover what your customers enjoy the most.
                     </Text>
                 </Card>
                 <Card>
@@ -41,10 +41,10 @@ export default function FeatureCards(){
                         <AiOutlineClockCircle />
                     </Icon>
                     <Title>
-                        Reduce Development Time
+                        Faster Development
                     </Title>
                     <Text>
-                        Create or edit pages with no code.
+                        Create/Edit pages swiftly without coding
                     </Text>
                 </Card>
             </Container>

@@ -24,7 +24,7 @@ export const ImageStyle = Styled.img`
     width:70%;
     display:flex;
     justify-content:center;
-    border-radius: 10px;
+    border-radius: 25px;
     margin-left:0%;
 `;
 
