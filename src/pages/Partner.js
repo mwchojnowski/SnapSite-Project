@@ -15,30 +15,30 @@ export default function Partner(){
             <ShopDisplay 
                 buttonDisplay = {true}
                 imageDir = "right"
-                title = "Become a SnapSite agency partner"
-                text = "Gain access to our community of ecommerce clients and enjoy exclusive perks like priority support and training to help grow your agency."
+                title = "Become a Partner"
+                text = "Join Our Community of Ecommerce Clients."
                 button = "Become a Partner"
-                url = "https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5efb684acbac06125c24ec27_agency%20iamge%20opt%202.png"
+                url = "https://i.ibb.co/sbPxsh6/Adobe-Stock-203199843.jpg"
             />
             <MainBlock 
                 buttonDisplay = {false}
-                title = "Change the way you design and develop"
-                text = "Design and launch your client’s ecommerce sites faster than before without sacrificing quality or page speed. With Shogun’s help, there’s no limit to what you can build to help your client’s scale their businesses."
+                title = "Improve the Way you Design"
+                text = "Design and launch your client’s ecommerce sites faster than before without sacrificing quality or page speed."
             />
             
             <MainBlock 
                 buttonDisplay={false}
-                title="Even more great perks"
+                title="Some Great Perks"
             />
             <PerksCards />
             <LowerBlock 
-                title='“We have seen a 30% reduction in development cost as well as near-immediate turnaround time for making changes”'
+                title='“We have seen a 30% reduction in development costs as well as an immediate turnaround time for making change”'
                 text="Paul Miller"
                 buttonDisplay={false}
             />
             <MainBlock 
                 buttonDisplay={true}
-                title="Team up and elevate your company."
+                title="Elevate your company."
                 text="Join the Partner Program to enjoy all of the perks."
                 Button = "Become a Partner"
                 href=''

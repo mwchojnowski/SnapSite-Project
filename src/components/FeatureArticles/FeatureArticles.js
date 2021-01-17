@@ -22,17 +22,16 @@ export default function FeatureArticles(){
         <Wrapper>
             <Container>
                 <FeaturedArticle>
-                    <FeatureImage src="https://assets-global.website-files.com/5e9a8be888adf7901fad5a5c/5fa0ad2ccf6bff98aaf60823_Cause_Main-p-800.jpeg" alt="Article"/>
+                    <FeatureImage src="https://i.ibb.co/3rm0rLM/marketing-holiday-ready.png" alt="Article"/>
                     <FeatureTitle>
-                        How Your Shopify Store Can Leverage Cause Marketing 
-                        This Holiday Season (and Year-Round)
+                        How Your Brand Can Leverage Cause Marketing This Holiday Season
                     </FeatureTitle>
                     <FeatureDetail>
                         <ShopifyCategory>
                             Shopify
                         </ShopifyCategory>
                         <Date>
-                            November 3,2020
+                            December 1,2020
                         </Date>
                     </FeatureDetail>
                 </FeaturedArticle>
@@ -46,11 +45,11 @@ export default function FeatureArticles(){
                                 Shopify
                             </ShopifyCategory>
                             <Date>
-                                November 10,2020
+                                November 31,2020
                             </Date>
                         </MiniFeatureDetail>
                         <ArticleName>
-                            6 Must-Read Articles About Shopify Themes
+                            10 Must-Read Articles About Promoting Your Store
                         </ArticleName>
                     </Article>
                     <Article>
@@ -63,8 +62,7 @@ export default function FeatureArticles(){
                             </Date>
                         </MiniFeatureDetail>
                         <ArticleName>
-                            How Your Shopify Store Can Leverage Cause Marketing 
-                            This Holiday Season (and Year-Round)
+                            How Your Brand Can Leverage Cause Marketing This Holiday Season
                         </ArticleName>
                     </Article>
                     <Article>
@@ -73,11 +71,11 @@ export default function FeatureArticles(){
                                 Business
                             </BusinessCategory>
                             <Date>
-                                October 7,2020
+                                October 23,2020
                             </Date>
                         </MiniFeatureDetail>
                         <ArticleName>
-                            SnapSite Raises $1M to Democratize Ecommerce for All
+                            SnapSite Holds Fundraiser to Democratize Ecommerce for Everyone
                         </ArticleName>
                     </Article>
                     <Article>
@@ -86,12 +84,11 @@ export default function FeatureArticles(){
                                 ECommerce
                             </EcommerceCategory>
                             <Date>
-                                September 9,2020
+                                September 29,2020
                             </Date>
                         </MiniFeatureDetail>
                         <ArticleName>
-                            The Ripple Effects of COVID-19 on Retail — 
-                            And How Brands Should Plan for the Future
+                            The Effects of COVID-19 on online business and How To Plan for the Future
                         </ArticleName>
                     </Article>
                 </FeatureList>

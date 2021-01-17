@@ -43,15 +43,6 @@ export default function footer(){
                     <Item href="/">
                         Blog
                     </Item>
-                    <Item href="#">
-                        Remote Work Guide
-                    </Item>
-                    <Item href="#">
-                        Tutorials
-                    </Item>
-                    <Item href="#">
-                        Elements Library
-                    </Item>
                     <Title>
                         Partners
                     </Title>
@@ -69,20 +60,14 @@ export default function footer(){
                     <Item href="#">
                         Jobs
                     </Item>
-                    <Item href="#">
+                    <Item href="/Contact">
                         Contact Us
                     </Item>
-                    <Item href="#">
+                    <Item>
                         Privacy Policy
                     </Item>
-                    <Item href="#">
+                    <Item>
                         Terms of Service
-                    </Item>
-                    <Item href="#">
-                        Acceptable Use
-                    </Item>
-                    <Item href="#">
-                        Data Protection
                     </Item>
                 </Column>
             </Container>

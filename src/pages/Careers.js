@@ -19,18 +19,18 @@ export default function Careers(){
                 href='#position'
             />
             <Image
-                url="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea98adceffbba8197125ae7_team-wave.gif"
+                url="https://i.ibb.co/jGVZM1J/bafb987eaafb2382adceffbbaafb819.gif"
             />
             <MainBlock
                 buttonDisplay={false}
                 title = "Our Core Values"
-                text = "At SnapSite, people and values come first. We're not only building great products we're fostering a community of transparency, support and positivity."
+                text = "People and values come first. We are building a community of support and positivity."
             />
             <FeatureCardList />
             <MainBlock
                 buttonDisplay={false}
                 title = "Working at SnapSite"
-                text = "We appreciate all of the great people that have joined us to make SnapSite what it is today. To show our appreciation these are some of the perks we offer to make sure our team members are cared for:"
+                text = "We appreciate everyone that has joined us to make SnapSite what it is today. To show our appreciation we offer perks such as:"
             />
             <CareerCards />
             <MainBlock 

@@ -13,14 +13,14 @@ export default function Landing(){
             <NavBar display={true}/>
             <MainBlock
                 buttonDisplay = {false}
-                title = "Our mission is to help brands create the best ecommerce experiences in the world."
+                title = "Our goal is to help brands make memorable ecommerce experiences."
             />
             <ShopDisplay 
                 buttonDisplay = {false}
                 imageDir = "right"
                 title = "Customers first, always."
                 text = "Everything we do starts with our customers and making their lives easier."
-                url = "https://i.ibb.co/fxTLK04/5ea217bd0047df55cf176650-Bitmap-p-800.jpg"
+                url = "https://i.ibb.co/bzJdjyF/customer-service.png"
             />
             <Data />    
             <MainBlock 

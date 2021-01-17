@@ -134,7 +134,7 @@ export default function NavBar(props){
                                                 </HInfo>
                                             </HoverItem>
                                             <HoverItem>
-                                                <TitleText href="#">
+                                                <TitleText href="/Contact">
                                                     Contact Us
                                                 </TitleText>
                                                 <HInfo>

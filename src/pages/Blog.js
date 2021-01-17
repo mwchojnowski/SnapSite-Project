@@ -13,7 +13,7 @@ export default function Blog(){
             <MainBlock 
                 buttonDisplay={false}
                 title = "SnapSite Blog"
-                text = "Build faster and convert more with a weekly dose of exclusive advice, tools and ecommerce strategies delivered directly to your inbox."
+                text = "Stay in the know with exclusive advice, tools and marketing strategies at your fingertips"
             />
             <FeatureArticles />
             <Articles />

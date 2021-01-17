@@ -15,7 +15,7 @@ export default function MiniCard(){
             <Container>
                 <Cards>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a0a06413820bb915e9a2_30%20page%20templates-p-500.jpeg"/>
+                        <Image src="https://i.ibb.co/Fn7kgf7/the-cleanser.jpg"/>
                         <Title>
                             30+ Page Templates
                         </Title>
@@ -25,7 +25,7 @@ export default function MiniCard(){
                         </Text>
                     </Card>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a08e46a2550fa4e2df3b_library%20of%20elements.svg"/>
+                        <Image src="https://i.ibb.co/g4tYSH3/library-elements.png"/>
                         <Title>
                             Robust Library of Elements
                         </Title>
@@ -36,7 +36,7 @@ export default function MiniCard(){
                         </Text>
                     </Card>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a0a00f24f1262b5cb262_responsive-p-800.jpeg"/>
+                        <Image src="https://i.ibb.co/hFnRY9H/Clean.jpg"/>
                         <Title>
                             Design by Screen Size
                         </Title>
@@ -48,7 +48,7 @@ export default function MiniCard(){
                 </Cards>
                 <Cards>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a10d722d4da5f00d4a22_optimize%20seo.svg"/>
+                        <Image src="https://i.ibb.co/HT2ZJrH/detail.png"/>
                         <Title>
                             Optimize for SEO
                         </Title>
@@ -59,7 +59,7 @@ export default function MiniCard(){
                         </Text>
                     </Card>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a11576d269f532ebc1b2_dev%20tools.svg"/>
+                        <Image src="https://i.ibb.co/HDD7ksH/css.png"/>
                         <Title>
                             Extendable + Dev Friendly
                         </Title>
@@ -69,7 +69,7 @@ export default function MiniCard(){
                         </Text>
                     </Card>
                     <Card>
-                        <Image src="https://assets-global.website-files.com/5e46eebdc58e17106fa817ed/5ea8a3cf8c4bf9412b8e0ec3_user%20permissions_1-p-500.jpeg"/>
+                        <Image src="https://i.ibb.co/gtk9TnY/profile.jpg"/>
                         <Title>
                             Team User Persmissions
                         </Title>

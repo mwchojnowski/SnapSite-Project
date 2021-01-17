@@ -20,11 +20,10 @@ export default function PerksCards(){
                         <IoMdChatboxes />
                     </Icon>
                     <Title>
-                        Access software and support
+                        Access support
                     </Title>
                     <Text>
-                        Connect directly with the SnapSite team through private
-                        Slack channels for your immediate support needs.
+                        Connect directly with our team to have your needs met in a timely manner.
                     </Text>
                 </Card>
                 <Card>
@@ -32,11 +31,10 @@ export default function PerksCards(){
                         <BsHouseDoor />
                     </Icon>
                     <Title>
-                        Join the SnapSite family
+                        Join the family
                     </Title>
                     <Text>
-                        We like to think of our agency partners as family which means 
-                        we’ll always treat you to some food and drinks when we’re in town.
+                        We like to see you as a part of our family and we will passionately support your business. 
                     </Text>
                 </Card>
                 <Card>
@@ -44,11 +42,10 @@ export default function PerksCards(){
                         <BiCalendarAlt />
                     </Icon>
                     <Title>
-                        Team up on partner events
+                        Partner up during events
                     </Title>
                     <Text>
-                        We love giving back to the community and helping our members grow 
-                        by co-hosting events put by our agency partners.
+                        Meet our clients during the events we have for you.
                     </Text>
                 </Card>
             </Container>

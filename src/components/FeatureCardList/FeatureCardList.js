@@ -22,8 +22,8 @@ export default function FeatureCards(){
                             Work in the open
                         </Title>
                         <Text>
-                            Operate with high integrity and choose what's right over what's easy.
-                            Be transparent as a company and with each other.
+                            Operate with high integrity and choose what is right.
+                            Be transparent with everyone at the company.
                         </Text>
                     </Top>
                 </Card>
@@ -36,8 +36,8 @@ export default function FeatureCards(){
                             People are people
                         </Title>
                         <Text>
-                            Treat yourself, colleagues, and customers with dignity, empathy, and respect.
-                            Start from a presumption of positive intent.
+                            Treat everyone alike with dignity, empathy, and respect.
+                            Start from the presumption of good intent with all.
                         </Text>
                     </Top>
                 </Card>
@@ -47,11 +47,11 @@ export default function FeatureCards(){
                     </Icon>
                     <Top>
                         <Title>
-                            Win and grow together
+                            Grow together
                         </Title>
                         <Text>
-                            Strive to be the best, individually and as a team. Support and
-                            encourage each other. Seek opportunities for growth.
+                            Strive to be the best both individually and as a team. Always support and
+                            encourage one another.
                         </Text>
                     </Top>
                 </Card>

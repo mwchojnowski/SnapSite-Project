@@ -13,6 +13,7 @@ import Blog from "./pages/Blog"
 import CaseStudies from "./pages/CaseStudies"
 import Careers from "./pages/Careers"
 import Partner from "./pages/Partner"
+import Contact from "./pages/Contact"
 
 export default function App() {
   return (
@@ -44,6 +45,9 @@ export default function App() {
         </Route>
         <Route path="/partner">
           <Partner />
+        </Route>
+        <Route  path="/contact">
+          <Contact />
         </Route>
       </Switch>
     </Router>

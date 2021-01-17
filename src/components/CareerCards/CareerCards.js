@@ -24,9 +24,8 @@ export default function Careers(){
                             Competitive compensation
                         </Title>
                         <Text>
-                            We want our team members to feel taken care of; 
-                            that's why we ask every candidate, 
-                            "What salary would make you happy?"
+                            We believe every hardworking member of our team deserves to
+                            receive adequet pay that will make them happy.
                         </Text>
                     </Card>
                     <Card>
@@ -34,11 +33,10 @@ export default function Careers(){
                             <AiOutlineClockCircle />
                         </Icon>
                         <Title>
-                            Remote company and flexible hours
+                            Remote company with flexible hours
                         </Title>
                         <Text>
                             We're a remote first company with team members all over the world.
-                            Work from home, or we'll reimburse the cost of a coworking space!
                         </Text>
                     </Card>
                     <Card>
@@ -49,9 +47,9 @@ export default function Careers(){
                             Team and company offsites
                         </Title>
                         <Text>
-                            While we use Zoom and Slack daily, 
+                            While we use Zoom daily, 
                             our company retreats give us the chance 
-                            to connect as a team on a more human level.
+                            to connect at a hman level.
                         </Text>
                     </Card>
                 </Row>
@@ -64,8 +62,7 @@ export default function Careers(){
                             Learning and Development
                         </Title>
                         <Text>
-                            Whether it's attending conferences or joining online 
-                            courses we're here to support your personal growth.
+                            We are always here to support you whether it's online courses or conferences.
                         </Text>
                     </Card>
                     <Card>
@@ -76,8 +73,7 @@ export default function Careers(){
                             A focus on work-life balance
                         </Title>
                         <Text>
-                            We're a results-oriented work environment—we care about results, 
-                            not hours in a chair, and we want you to have a life beyond your work.
+                            We value results, not hours in a chair, and we want you to have a life outside work.
                         </Text>
                     </Card>
                     <Card>
