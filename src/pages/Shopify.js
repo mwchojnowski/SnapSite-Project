@@ -59,7 +59,7 @@ export default function Shopify(){
                 imageDir = "right"
                 title = "Reliable support"
                 text = "Our global support team is always ready to help you solve any problem."
-                url = "https://i.ibb.co/KjQRzWj/5eaadef252d8cd0b139f5d18-support.jpg"
+                url = "https://i.ibb.co/W08mjqM/2324fbjhsb2234c325c31g1fc.png"
             />
             <MainBlock 
                 buttonDisplay = {false}

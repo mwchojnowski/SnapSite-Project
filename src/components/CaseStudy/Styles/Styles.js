@@ -70,6 +70,11 @@ export const Link = Styled.a`
     margin-top:50px;
     display:flex;
     cursor:pointer;
+    width:140px;
+    justify-content:space-between;
+    &:hover{
+        width:160px;
+    }
 `;
 
 export const Arrow = Styled.div`
