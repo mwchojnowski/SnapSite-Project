@@ -25,7 +25,7 @@ export default function ContactForm(){
                         <Empty />
                     </Grid>
                     <ButtonWrap>
-                        <Submit>
+                        <Submit type="submit" value="submit">
                             Submit
                         </Submit>
                     </ButtonWrap>
