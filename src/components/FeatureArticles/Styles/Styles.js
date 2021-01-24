@@ -19,10 +19,13 @@ export const Container = Styled.div`
     @media only screen and (max-width: 1700px) {
         flex-direction:column;
     }
+    @media only screen and (max-width: 500px){
+        width:90%;
+    }
 `;
 
 export const FeaturedArticle = Styled.div`
-    width:60%;
+    width:80%;
     display:flex;
     flex-direction:column;
     transition:.3s;
@@ -127,12 +130,19 @@ export const Date = Styled.h2`
 `;
 
 export const FeatureList = Styled.div`
-    margin-left:50px;
-    height:550px;
     width:40%;
+    height:auto;
     @media only screen and (max-width: 1000px) {
         margin-left:0;
+        width:90%;
+    }
+    @media only screen and (max-width: 500px){
         width:50%;
+        display:flex;
+        justify-content:left;
+        align-items:center;
+        flex-direction:column;
+        
     }
 `;
 
@@ -144,9 +154,13 @@ export const ListTitle = Styled.div`
 
 export const Article = Styled.div`
     height:auto;
-    width:350px;
+    width:auto;
     margin-bottom:40px;
     cursor:pointer;
+    @media only screen and (max-width: 500px){
+        width:300px;
+        margin-left:75px;
+    }  
 `;
 
 export const ArticleName = Styled.h1`
@@ -155,4 +169,7 @@ export const ArticleName = Styled.h1`
     font-size: 20px;
     line-height: 24px;
     font-weight: 800;
+    @media only screen and (max-width: 500px){
+        width:80%;
+    }
 `;

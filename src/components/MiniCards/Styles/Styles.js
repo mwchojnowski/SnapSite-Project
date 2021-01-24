@@ -44,6 +44,10 @@ export const Card = Styled.div`
 
 export const Image = Styled.img`
     height:300px;
+    @media only screen and (max-width: 500px){
+        height:225px;
+        width:100%;
+    }
 `;
 
 export const Title = Styled.h1`
@@ -58,4 +62,7 @@ export const Text = Styled.h4`
     line-height:24px;
     letter-spacing:1px;
     width:70%;
+    @media only screen and (max-width: 500px){
+        width:95%;
+    }
 `;

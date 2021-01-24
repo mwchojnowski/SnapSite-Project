@@ -20,6 +20,11 @@ export const Container = styled.div`
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
+    @media only screen and (max-width: 500px){
+        width:80%;
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+    }
 `;
 
 export const LOGOColumn = styled.div`
@@ -35,6 +40,9 @@ export const Column = styled.div`
     width:25%;
     display:flex;
     flex-direction:column;
+    @media only screen and (max-width: 500px){
+        width:50%;
+    }
 `;
 
 export const Logo = styled.h1`
@@ -57,6 +65,9 @@ export const Item = styled.a`
     color: rgba(0,0,0,.70);
     line-height:20px;
     letter-spacing:1px;
+    @media only screen and (max-width: 500px){
+        font-size:15px;
+    }
 `;
 
 export const BottomText = styled.h2`

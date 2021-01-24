@@ -19,6 +19,9 @@ export const Container = Styled.div`
     @media only screen and (max-width: 1000px) {
         flex-direction:column;
     }
+    @media only screen and (max-width: 500px){
+        width:80%;
+    }
 `;
 
 export const Img = Styled.img`
@@ -40,6 +43,9 @@ export const TextDiv = Styled.div`
         justify-content:center;
         align-items:center;
     }
+    @media only screen and (max-width: 500px){
+        margin-bottom:100px;
+    }
 `;
 
 export const Title = Styled.h1`
@@ -47,6 +53,9 @@ export const Title = Styled.h1`
     font-weight:800;
     @media only screen and (max-width: 1000px) {
         text-align:center;
+    }
+    @media only screen and (max-width: 500px){
+        font-size:35px;
     }
 `;
 
@@ -57,6 +66,10 @@ export const Text = Styled.h3`
     letter-spacing: 1px;
     line-height:24px;
     width: 80%;
+    @media only screen and (max-width: 500px){
+        font-size:15px;
+        text-align:center;
+    }
 `;
 
 export const Button = Styled.a`

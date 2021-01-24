@@ -77,22 +77,6 @@ export default function Nav(){
                                                 Ecommerce Industry Insights
                                             </HInfo>
                                         </HoverItem>
-                                        <HoverItem>
-                                            <TitleText href="#">
-                                                Webinar
-                                            </TitleText>
-                                            <HInfo>
-                                                Learn how to get the most out of our product
-                                            </HInfo>
-                                        </HoverItem>
-                                        <HoverItem>
-                                            <TitleText href="#">
-                                                Tutorials
-                                            </TitleText>
-                                            <HInfo>
-                                                Learn how to use our product
-                                            </HInfo>
-                                        </HoverItem>
                                     </HoverAll>   
                                 }
                             </HoverContainer>
@@ -108,15 +92,7 @@ export default function Nav(){
                                 {displayPart &&
                                     <HoverAll>
                                         <HoverItem>
-                                            <TitleText href="#">
-                                                Hire A Partner
-                                            </TitleText>
-                                            <HInfo>
-                                                Discover experts who can help you make your projects
-                                            </HInfo>
-                                        </HoverItem>
-                                        <HoverItem>
-                                            <TitleText href="#">
+                                            <TitleText href="/partner">
                                                 Become a Partner
                                             </TitleText>
                                             <HInfo>
@@ -130,7 +106,7 @@ export default function Nav(){
                         <NavItem>
                             <HoverContainer>
                                 <HoverA onClick={()=> setComp(prev=>!prev)}>
-                                    SnapSite 
+                                    Company 
                                     <Arrow>
                                         <FaChevronDown />
                                     </Arrow> 
@@ -146,7 +122,7 @@ export default function Nav(){
                                             </HInfo>
                                         </HoverItem>
                                         <HoverItem>
-                                            <TitleText href="#">
+                                            <TitleText href="/careers">
                                                 Careers
                                             </TitleText>
                                             <HInfo>
@@ -154,7 +130,7 @@ export default function Nav(){
                                             </HInfo>
                                         </HoverItem>
                                         <HoverItem>
-                                            <TitleText href="#">
+                                            <TitleText href="/contact">
                                                 Contact Us
                                             </TitleText>
                                             <HInfo>

@@ -42,11 +42,18 @@ export const Article = Styled.div`
         position:relative;
         top:-2px;
     }
+    @media only screen and (max-width: 500px){
+        width:300px;
+    }
 `;
 
 export const Img = Styled.img`
     height:200px;
     width:296px;
+    @media only screen and (max-width: 500px){
+        height:150px;
+        width:240px;
+    }
 `;
 
 export const Title = Styled.h1`

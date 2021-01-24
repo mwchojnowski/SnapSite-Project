@@ -18,6 +18,9 @@ export const Container = Styled.div`
     display:flex;
     justify-content:center;
     align-items:center;
+    @media only screen and (max-width: 500px) {
+        width:90%;
+    }
 `;
 
 export const ImageStyle = Styled.img`
@@ -26,5 +29,8 @@ export const ImageStyle = Styled.img`
     justify-content:center;
     border-radius: 25px;
     margin-left:0%;
+    @media only screen and (max-width: 500px) {
+        width:90%;
+    }
 `;
 

@@ -32,6 +32,10 @@ export const Title = styled.h1`
     @media only screen and (max-width: 1200px) {
         font-size:45px;
     }
+    @media only screen and (max-width: 500px) {
+        font-size:35px;
+        width:80%;
+    }
 `;
 
 export const Text = styled.p`
@@ -40,6 +44,9 @@ export const Text = styled.p`
     letter-spacing:.5px;
     font-weight:500;
     width:60%;
+    @media only screen and (max-width: 500px){
+        font-size:18px;
+    }
 `;
 
 export const Button = styled.a`
@@ -60,5 +67,8 @@ export const Button = styled.a`
     &:hover{
         position:relative;
         bottom:-2px;
+    }
+    @media only screen and (max-width: 500px){
+        margin-right:50px;
     }
 `;

@@ -20,6 +20,9 @@ export const Container = Styled.div`
     @media only screen and (max-width: 1000px) {
         flex-direction:column;
     }
+    @media only screen and (max-width: 500px) {
+        width:90%;
+    }
 `;
 
 export const Img = Styled.img`
@@ -28,7 +31,7 @@ export const Img = Styled.img`
     margin-right:50px;
     border-radius:25px;
     @media only screen and (max-width: 1000px) {
-        width:100%;
+        width:80%;
     }
 `;
 
@@ -46,6 +49,9 @@ export const IconDiv = Styled.div`
 export const Title = Styled.h1`
     font-size: 60px;
     font-weight:800;
+    @media only screen and (max-width: 500px) {
+        font-size:35px;
+    }
 `;
 
 export const Text = Styled.h3`
@@ -54,6 +60,9 @@ export const Text = Styled.h3`
     padding:25px 0;
     letter-spacing: .5px;
     width: 80%;
+    @media only screen and (max-width: 500px) {
+        font-size:15px;
+    }
 `;
 
 export const Line = Styled.img`

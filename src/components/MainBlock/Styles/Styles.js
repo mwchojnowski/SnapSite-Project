@@ -17,6 +17,9 @@ export const Container = styled.div`
     flex-direction:column;
     height:100%;
     width:70%;
+    @media only screen and (max-width: 500px) {
+        width:90%;
+    }
 `;
 
 export const Title = styled.h1`
@@ -28,6 +31,10 @@ export const Title = styled.h1`
     @media only screen and (max-width: 1000px) {
         width:85%;
         font-size:45px;
+    }
+    @media only screen and (max-width: 500px) {
+        width:90%;
+        font-size:35px;
     }
 `;
 

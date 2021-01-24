@@ -9,6 +9,9 @@ export const Wrapper = Styled.div`
     background:url('https://i.ibb.co/LNvvnj9/imageedit-2-3663984984.png');
     margin: 50px 0;
     font-family: 'Enriqueta', serif;
+    @media only screen and (max-width: 800px){
+        height:450px;
+    }
 `;
 
 export const Container = Styled.div`
@@ -16,6 +19,9 @@ export const Container = Styled.div`
     display:flex;
     align-items:center;
     justify-content:center;
+    @media only screen and (max-width: 800px){
+        flex-direction:column;
+    }
 `;
 
 export const PlatformBlock = Styled.a`
@@ -33,6 +39,9 @@ export const PlatformBlock = Styled.a`
         -webkit-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
         -moz-box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
         box-shadow: 0px 0px 5px 6px rgba(0,0,0,0.2);
+    }
+    @media only screen and (max-width: 800px){
+        margin-top:25px;
     }
 `;
 
