@@ -25,12 +25,19 @@ export const Container = Styled.div`
 export const TitleDiv = Styled.div`
     width:40%;
     display:flex;
+    @media only screen and (max-width: 500px) {
+        width:100%;
+    }
 `;
 
 export const Title = Styled.h1`
     font-size:60px;
     font-weight:700;
     text-align:left;
+    @media only screen and (max-width: 500px) {
+        font-size:40px;
+        text-align:center;
+    }
 `;
 
 export const DataDiv = Styled.div`
@@ -39,6 +46,9 @@ export const DataDiv = Styled.div`
     flex-direction:row;
     @media only screen and (max-width: 1000px) {
         flex-direction:column;
+    }
+    @media only screen and (max-width: 500px) {
+        width:80%;
     }
 `;
 
@@ -53,6 +63,8 @@ export const Value = Styled.h1`
     font-weight:700;
     color:rgba(52,152,219,1);
     margin-bottom:15px;
+    @media only screen and (max-width: 500px) {
+        font-size:35px;
 `;
 
 export const Desc = Styled.div`

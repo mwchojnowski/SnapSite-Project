@@ -11,6 +11,7 @@ export default function Careers(){
     return(
         <>
             <NavBar display={true}/>
+            <Space />
             <MainBlock
                 buttonDisplay={true}
                 title = "Join us in creating a better ecommerce experience for all."

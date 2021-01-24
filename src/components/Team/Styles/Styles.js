@@ -27,7 +27,9 @@ export const Row = Styled.div`
     justify-content:space-between;
     flex-direction:row;
     padding:35px 0;
-
+    @media only screen and (max-width: 500px){
+        flex-direction:column;
+    }
 `;
 
 export const Element = Styled.div`

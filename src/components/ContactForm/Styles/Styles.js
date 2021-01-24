@@ -17,13 +17,17 @@ export const Container = Styled.div`
     height:100%;
     width:70%;
     @media only screen and (max-width: 1700px) {
-        flex-direction:column;
+        
     }
 `;
 
 export const Form = Styled.form`
     width:70%;
     height:auto;
+    @media only screen and (max-width: 500px){
+        display:flex;
+        flex-direction:column;
+    }
 `;
 
 export const Grid = Styled.div`
@@ -34,6 +38,10 @@ export const Grid = Styled.div`
     grid-template-columns: 1fr 1fr;
     grid-template-rows:  1fr 1fr 1fr;
     grid-gap:25px;
+    @media only screen and (max-width: 500px){
+        grid-template-columns: 1fr;
+        grid-template-rows:  1fr 1fr 1fr 1fr 1fr;
+    }
 `;
 
 export const FormLower = Styled.form`
@@ -51,16 +59,22 @@ export const HalfInput = Styled.input`
     padding:10px;
     font-size:16px;
     font-weight:500;
+    @media only screen and (max-width: 1000px){
+        width:200px;
+    }
 `;
 
 export const Empty = Styled.input`
     border:none;
     z-index:0;
+    @media only screen and (max-width: 1000px){
+        display:none;
+    }
 `;
 
 export const Message = Styled.input`
     height:50px;
-    width:193%;
+    width:195%;
     justify-self:stretch;
     z-index:1;
     border-radius:5px;
@@ -69,6 +83,18 @@ export const Message = Styled.input`
     font-size:16px;
     font-weight:500;
     resize:both;
+    @media only screen and (max-width: 2000px){
+        width:195%;
+    }
+    @media only screen and (max-width: 1800px){
+        width:205%;
+    }
+    @media only screen and (max-width: 1000px){
+        width:215%;
+    }
+    @media only screen and (max-width: 500px){
+        width:200px;
+    }
 `;
 
 export const ButtonWrap = Styled.div`
@@ -78,6 +104,9 @@ export const ButtonWrap = Styled.div`
     justify-content:center;
     align-items:center;
     padding:25px;
+    @media only screen and (max-width: 1000px){
+        width:100%;
+    }
 `;
 
 export const Submit = Styled.a`
@@ -100,8 +129,5 @@ export const Submit = Styled.a`
         position:relative;
         bottom:-2px;
         opacity:.8;
-    }
-    @media only screen and (max-width: 1000px){
-        display:none;
     }
 `;

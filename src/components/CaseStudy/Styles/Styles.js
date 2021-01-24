@@ -22,6 +22,9 @@ export const Container = Styled.div`
         justify-content:center;
         align-items:center;
     }
+    @media only screen and (max-width: 500px){
+        width:80%;
+    }
 `;
 
 export const Img = Styled.img`
@@ -62,6 +65,9 @@ export const Title = Styled.h1`
     margin-bottom: 10px;
     font-size: 38px;
     font-weight: 800;
+    @media only screen and (max-width: 500px){
+        font-size:25px;
+    }
 `;
 
 export const Link = Styled.a`
