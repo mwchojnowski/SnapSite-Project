@@ -18,6 +18,7 @@ export default function Partner(){
                 title = "Become a Partner"
                 text = "Join Our Community of Ecommerce Clients."
                 button = "Become a Partner"
+                href = "#partner"
                 url = "https://i.ibb.co/sbPxsh6/Adobe-Stock-203199843.jpg"
             />
             <MainBlock 
@@ -38,6 +39,7 @@ export default function Partner(){
             />
             <MainBlock 
                 buttonDisplay={true}
+                name="partner"
                 title="Elevate your company."
                 text="Join the Partner Program to enjoy all of the perks."
                 Button = "Become a Partner"

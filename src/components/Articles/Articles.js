@@ -104,7 +104,7 @@ export default function Articles(){
                     </MiniFeatureDetail>
                 </Article>
                 <Article>
-                    <Img src="https://i.ibb.co/thjqLqJ/demographics-vs-psychographics-500x500.jpg"/>
+                    <Img src="https://i.ibb.co/RYpvKd7/buyer-profile.jpg"/>
                     <Title>
                         How — And Why — You Should Use Buyer Profiles and Quizzes for Your Store
                     </Title>

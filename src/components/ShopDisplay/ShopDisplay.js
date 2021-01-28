@@ -23,7 +23,7 @@ export default function FeatureImgText(props){
                                 {props.text}
                             </Text>
                             { props.buttonDisplay ?
-                                <Button>
+                                <Button href={props.href}>
                                     {props.button}
                                 </Button>
                                 :null
