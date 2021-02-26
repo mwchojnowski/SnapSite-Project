@@ -1,1 +1,1 @@
-# SnapSite-Project
+# SnapSite
