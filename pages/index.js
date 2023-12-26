@@ -40,7 +40,7 @@ export default function Landing() {
         text="Be among the ecommerce agencies that use SnapSite daily."
         quote='"Since we have been with shogun we have seen a 25% increase in conversion."'
         quotee="Gabriella Santos"
-        url="https://www.womened.org/images/2020/01/31/networking-infographic.png"
+        url="https://i.gyazo.com/bc03248c8c56ce3624d24670b5836d03.png"
       />
       <MainBlock
         buttonDisplay={false}
